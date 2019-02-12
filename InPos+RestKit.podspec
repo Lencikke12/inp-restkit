@@ -5,12 +5,12 @@ Pod::Spec.new do |s|
   s.summary               = "InPos wrapper classes for RestKit"
   s.description           = <<-DESC "This framework uses the factory method, facade, command design patterns to modularize the work with the RestKit framework."
                                DESC
-  s.homepage              = "https://github.com/Lencikke12/inpos-restkit"
+  s.homepage              = "https://github.com/Lencikke12/inp-restkit"
   s.license               = { :type => "MIT", :file => "LICENSE" }
   s.author                = { "Lenci" => "lorinclev@gmail.com" }
   s.platform              = :ios
   s.ios.deployment_target = "8.0"
-  s.source                = { :git => "git@github.com:Lencikke12/inpos-restkit.git", :tag => "#{s.version}", :submodules => true }
+  s.source                = { :git => "git@github.com:Lencikke12/inp-restkit.git", :tag => "#{s.version}", :submodules => true }
   s.framework             = "Foundation"
   s.requires_arc          = true
   s.default_subspec       = 'Core'
