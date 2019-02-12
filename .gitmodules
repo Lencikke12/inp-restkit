@@ -1,0 +1,6 @@
+[submodule "InPos+RestKit/Plist"]
+	path = InPos+RestKit/Plist
+	url = https://github.com/Lencikke12/inp-plist-common.git
+[submodule "InPos+RestKit/CoreData"]
+	path = InPos+RestKit/CoreData
+	url = https://github.com/Lencikke12/inp-coredata-common.git
